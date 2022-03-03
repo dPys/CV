@@ -1,0 +1,122 @@
+SKILLS
+Backend Programming Python (expert), R (expert), BASH/TCSH Shells (expert), C (inter.), MATLAB (proficient)
+Frontend Programming (r)markdown (expert), JS (inter.), LaTex (expert), HTML/CSS (inter.), Jupyter (expert)
+Database Pandas (expert), Tidyverse (expert), Dask (proficient), Spark (inter.), RedCap (expert), SQL (proficient)
+Version Control Git/Github (proficient), anaconda/aptitude/yum/homebrew/pypi (expert)
+DevOps CircleCI/Travis (expert), MLOps (inter.), packaging (expert), unit/integration/smoke/fuzz testing (expert)
+Supercomputing SLURM/PBS/SGE scheduler (expert), openMP/MPI (proficient), joblib (expert), GPU (inter.)
+Cloud AWS (expert - S3, Batch, RDS, CloudWatch, EC2, ECR, ELB, IAM, Lambda, awscli)
+Neuroimaging & Biometrics fMRI/dMRI (expert), EEG/ECG/HRV (proficient), Mobile Sensing (proficient)
+ML Scikit-Learn (expert), TensorFlow (proficient), H2O (proficient), PyTorch (inter.), StellarGraph (proficient)
+Visualization Photoshop, Illustrator, InDesign, Premiere Pro (proficient), D3.js (inter.), plotly (proficient), ggplot (expert), matplotlib/seaborn (expert)
+Natural Language Processing OCR (expert), ASR (proficient), topic/sentiment models (proficient), BERT/DEBERTA (proficient), GPT-3 (expert), preprocessing (expert), NLTK/Gensim/spACy
+Containerization Docker/Singularity (expert)
+Bayesian Analysis Stan (proficient), PyMC3 (inter.)
+
+EDUCATION
+PhD, COGNITIVE NEUROSCIENCE AND APPLIED STATISTICAL MODELING
+University of Texas Austin | Austin, Texas, 2021
+Dissertation: “Predicting Depression Persistence with Connectome Statistical Learning”
+MA, CLINICAL PSYCHOLOGY
+University of Texas Austin | Austin, Texas, 2018
+PBACC, PSYCHOLOGY
+University of California Berkeley | Berkeley, California, 2013
+BA, PHILOSOPHY AND MATHEMATICS
+University of Virginia | Charlottesville, Virginia, 2011
+IB, VALEDICTORIAN
+Robinson Secondary School | Fairfax, Virginia, 2007
+
+EXPERIENCE
+VISITING SCHOLAR, ML ENGINEER, PROJECT MANAGER
+Center for Imaging Science | Johns Hopkins University, January 2019 – August 2019
+• Implement distributed ensemble tractography with custom ‘inverse-native’ image registration to
+facilitate normative structural brain network (‘Connectome’) analysis at the individual-level.
+• Mentor and supervise team of interdisciplinary software engineers to repackage, test, document, and
+deploy reproducible and high-throughput connectome mining pipeline that upscales analytic capacity by
+3x orders of magnitude on cloud and HPC servers, achieving unprecedented discriminability
+benchmarks and other analytic goals ahead of schedule.
+• Innovate myriad graph statistical learning methods for connectomics, including multiplex embeddings,
+multiverse graphical inference, graphical ensembles, and multi-species ‘connectome coding’.
+RADIOLOGICAL TECHNICIAN, DATA ARCHITECT, GRADUATE MENTOR
+Mood and CogNeuro Labs | University of Texas at Austin, July 2016 – August 2018
+• Train and validate Bayesian, ensemble, and deep-generative transfer learning models to achieve 25%
+posterior predictive gain in AUC above classifiers-as-usual for prognosis of chronic depression.
+• Acquire, preprocess, and analyze 100+ MRI, fMRI, and dMRI scans, and develop scan sequences.
+• Invent suite of geographic web-scraping and census mining tools for high-precision, data-economical,
+and reproducible deep-feature synthesis that delivers 5-10% out-of-sample predictive gain for a
+stacked ensemble of classifiers used to match individuals to an internet intervention for depression.
+• Independently devise, engineer, and deploy a cloud-based LAMP server on AWS using HIPAA-
+compliant EC2, ELB, and RDS-SQL to achieve scalable iOS / Android mobile sensing with HealthKit /
+Fit API’s, activity monitoring, conversational audio analysis with ASR and NLP, real-time sentiment
+analysis, continuous learning, and closed-loop treatment prompts with personalized push-notifications.
+STUDY COORDINATOR, SOFTWARE ENGINEER, SYSTEMS ADMINISTRATOR
+Social Cognitive Affective Neuroscience Lab | University of Arizona, July 2014 – July 2016
+• Manage team of a dozen research scientists while coordinating two DARPA-funded studies that
+investigate novel sleep-entrainment interventions for Traumatic Brain Injury and PTSD.
+• Forge relationships with over 73 institutions and community organizations, while deploying
+reinforcement-learned recruitment campaign based on targeted social media ads and SEO.
+• In the processing of establishing a new research lab, automate systems of multimodal data capture,
+entry, export, transfer, storage, preprocessing, and quality control to streamline standard operating
+procedures, minimize data loss, and maximize efficiency of research team.
+• Independently construct a 14-node, quad-GPU Beowulf cluster, configure and administer its
+scheduler and ACL’s for a diverse team of users, implement custom SSHFS NFS and remote access
+protocols, write and maintain library of dozens of custom shell scripts to minimize maintainence
+overhead, and compile dozens of bleeding-edge neuroimaging applications for HPC analytics.
+
+FEATURED SOFTWARE AND OPEN-SOURCE CONTRIBUTIONS
+• Creator and principal developer of PyNets (github.com/dPys/PyNets ), a reproducible workflow for connectome ensemble learning.
+• Co-creator and core developer of dMRIprep (github.com/nipreps/dmriprep ), an open source platform for reproducible preprocessing of diffusion MRI, and its primary dependency -- EddyMotion (github.com/nipreps/eddymotion) eddy-current correction for multiple diffusion models.
+• Core developer of NeuroData’s MRI-to-Graphs (NDM2G) (github.com/neurodata/m2g ), a reliable and scalable structural connectome estimation.
+• Regular contributor to Dipy (github.com/dipy/dipy), Nilearn (github.com/nilearn/nilearn), and Scikit-Learn (github.com/scikit-learn/scikit-learn).
+
+PATENTS
+Automated Feature Engineering of Hierarchical Ensemble Connectomes, 11,188,850, (US & PCT, 2018 - Issued)
+Generative Connectome Sentiment Modeling, 63/251,723 (US - Provisional)
+
+COLLOQUIUM, TEACHING, AND INVITED LECTURES
+• Hosted PyNets 1.0 code sprint. University of Texas at Austin.. Austin, TX. 2021.
+• Keynote Speaker. “Ensemble Connectomics.” Statistical and Data Sciences Colloqium, University of Texas at Austin, TX. 2020.
+• Invited developer dMRIprep code sprint. University of Washington eScience Institute. Seattle, WA. 2019.
+• Co-hosted full-day workshop on structural connectomics. Johns Hopkins University (JHU). Baltimore, MD. 2019.
+• Invited developer Nipype 2.0 code sprint. Massachusetts Institute of Technology (MIT). Boston, MA. 2018.
+• Featured developer at Neurohackacademy. University of Washington eScience Institute. Seattle, WA. 2017.
+• Invited developer at Brainhack Global. Organization for Human Brain Mapping (OHBM). 2017-2021.
+• Guest Lecturer. “Automated Global Probabilistic Tractography.” Brain Mapping Workshop (BMW). Arizona, 2016.
+• Guest Lecturer. “Parallel Computing and Neuroimaging.” Brain Mapping Workshop (BMW). Arizona, 2015.
+
+FEATURED PUBLICATIONS
+Pisner D., Shumake, J., (2021). Predicting Depression Persistence with Connectome Ensemble Transfer Learning. In review.
+Pisner D., Shumake, J. (2021). Mining the Multiverse of the Ensemble Connectome. In review.
+Pisner D., Schnyer D. (2019). Chapter 6: Support Vector Machine. In A. Machelli, S. Vieira (Eds.), Machine Learning: Methods and Applications to Brain
+Disorders (pp. 101-122). London, UK: Elsevier Science.
+Pisner D., Shumake J., Beevers, C, Schnyer D. (2019). The Superior Longitudinal Fasciculus and its Functional Triple-Network Mechanisms in Brooding.
+Neuroimage: Clinical, 24, 101935.
+Pisner, D., Smith, R., Klimova, A., Alkozei, A., Killgore, W. D. (2016). Highways of the Emotional Intellect: White Matter Correlates of an Ability-Based
+Measure of Emotional Intelligence. Social Neuroscience, 11, 1-15.
+Pearson, R., Pisner, D., Meyer, B., Shumake, J., Beevers, C. (2019). A Machine Learning Ensemble to Predict Treatment Outcomes Following an Internet
+Intervention for Depression. Psychological medicine 49 (14), 2330-2341.
+Papini, S., Pisner, D. ... (2018). Ensemble Machine Learning Prediction of PTSD Screening Status After Emergency Room Hospitalization.
+Alexander, C., Pisner, D., Jacova, C. (2019). Predementia Brain Changes in Progranulin Mutation: A Systematic Review of Neuroimaging Evidence. Dementia and
+Geriatric Cognitive Disorders 47 (1-2), 1-18.
+Pearson, R., Pisner, D., Beevers, C.. Translational Research in Mental Health: Challenges and Opportunities. The Behavior Therapist.
+Alkozei, A. Pisner, D., Rauch, S., Killgore, W. D. (2015) Emotional Intelligence and Subliminal Presentations of Social Threat. Biological Psychiatry 77(9).
+
+FEATURED CONFERENCE PRESENTATIONS
+Pisner, D., Joseph M., Richie-Halford A., Lerma-Usabiag, G., Mansour S., Kent JD, Keshavan A., Cieslak M., Dickie, E., Tourbier, S., Voineskos, A., Satterthwaite,
+T., Poldrack, RA., Veraart, J., Rokem A., and Esteban, O... dMRIPrep: A Robust Preprocessing Pipeline for Diffusion MRI. ISMRM 2021 Annual Meeting.
+Pisner, D., Hammonds, R. PyNets: A Reproducible Workflow for Structural and Functional Connectome Ensemble Learning. Organization for Human Brain
+Mapping (OHBM) 2020 Annual Meeting. Montreal, CA.
+Pisner, D., Shumake J., Beevers, C., Schnyer D. Measuring Negative Attention Bias in Depression Using Differential Brain Decoding. Organization for Human
+Brain Mapping (OHBM) 2019 Annual Meeting. Rome, IT.
+Pisner, D., Shumake J., Beevers, C., Schnyer D. Depressive Rumination as a Microstructural-Functional Failure of Network of Networks. Organization for Human
+Brain Mapping (OHBM) 2018 Annual Meeting. Singapore, SG.
+Pisner, D., Beevers, C., Schnyer D. Resting-state functional connectivity of the Cognitive Control Network in Major Depressive Disorder. Organization for
+Human Brain Mapping (OHBM) 2017 Annual Meeting. Vancouver, BC.
+Pisner, D., Singh, P., Fridman, A., Killgore. W. D. Resilience Following Mild Traumatic Brain Injury is associated with Gray Matter Volume in the Left Precentral
+Gyrus. International Neuropsychological Society’s 44th Annual Meeting, Boston, MA.
+Pisner, D., Alkozei, A., Killgore. W. D. (2015, May) Trait Emotional Suppression is Associated with Decreased Activation of the Insula and Thalamus in
+Response to Masked Angry Faces. Society of Biological Psychiatry’s 70th Annual Meeting.. Toronto, ON.
+Pisner, D., Alkozei, A., Killgore. W. D. (2015, February) Visuospatial Reasoning Mediates the Relationship Between Emotion Recognition and Emotional
+Intelligence. International Neuropsychological Society’s 43rd Annual Meeting, Denver, CO.
+Pisner, D., Bickford D., Crothers R., Kivowitz A., Mackin R., Nelson, J., Tegenkamp K. (2014, May). Self-Reported Sleep Disturbance as a Risk Factor for Memory
+Deficits in Late Life Depression. American Psychiatric Association’s 167th Annual Meeting. New York, NY.
